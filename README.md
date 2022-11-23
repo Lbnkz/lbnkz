@@ -14,4 +14,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/8354051b-42c1-445c-9d9d-881f01d3a92d.svg)](https://wakatime.com/@8354051b-42c1-445c-9d9d-881f01d3a92d)
+[![wakatime](https://wakatime.com/badge/user/6101e9ef-4606-4de8-9665-e9d3584ead8f/project/0b96fadb-a39d-43aa-b55d-d94d497b79d8.svg)](https://wakatime.com/badge/user/6101e9ef-4606-4de8-9665-e9d3584ead8f/project/0b96fadb-a39d-43aa-b55d-d94d497b79d8)
