@@ -1,6 +1,3 @@
-# Oi meu nome é Lucas 👋
-
-
 ## Mais sobre mim
 
 
@@ -10,7 +7,7 @@ object **Lucas** {
  val acknowledgements = "Dev Junior"
 
  val primarySkillset = "Comunicação, Criatividade, Proatividade, Trabalho em equipe"
- val languages = listOf("Java", "JavaScript", "C++")
+ val languages = listOf("Flutter", "Dart", "GoLang", "Python")
 
 }
 ```
